@@ -1,0 +1,201 @@
+{
+  "squad": {
+    "exact_match": 20.0,
+    "f1": 36.05882352941176,
+    "num_samples": 10,
+    "predictions": [
+      {
+        "id": "56be4db0acb8001400a502ec",
+        "prediction_text": "The Denver Broncos represented the AFC at Super Bowl 50."
+      },
+      {
+        "id": "56be4db0acb8001400a502ed",
+        "prediction_text": "Carolina Panthers"
+      },
+      {
+        "id": "56be4db0acb8001400a502ee",
+        "prediction_text": "Levi's Stadium in Santa Clara, California"
+      },
+      {
+        "id": "56be4db0acb8001400a502ef",
+        "prediction_text": "The Denver Broncos won Super Bowl 50."
+      },
+      {
+        "id": "56be4db0acb8001400a502f0",
+        "prediction_text": "Golden (gold-themed initiatives)"
+      },
+      {
+        "id": "56be8e613aeaaa14008c90d1",
+        "prediction_text": ""
+      },
+      {
+        "id": "56be8e613aeaaa14008c90d2",
+        "prediction_text": ""
+      },
+      {
+        "id": "56be8e613aeaaa14008c90d3",
+        "prediction_text": "American Football Conference"
+      },
+      {
+        "id": "56bea9923aeaaa14008c91b9",
+        "prediction_text": ""
+      },
+      {
+        "id": "56bea9923aeaaa14008c91ba",
+        "prediction_text": ""
+      }
+    ],
+    "references": [
+      {
+        "id": "56be4db0acb8001400a502ec",
+        "answers": {
+          "text": [
+            "Denver Broncos",
+            "Denver Broncos",
+            "Denver Broncos"
+          ],
+          "answer_start": [
+            177,
+            177,
+            177
+          ]
+        }
+      },
+      {
+        "id": "56be4db0acb8001400a502ed",
+        "answers": {
+          "text": [
+            "Carolina Panthers",
+            "Carolina Panthers",
+            "Carolina Panthers"
+          ],
+          "answer_start": [
+            249,
+            249,
+            249
+          ]
+        }
+      },
+      {
+        "id": "56be4db0acb8001400a502ee",
+        "answers": {
+          "text": [
+            "Santa Clara, California",
+            "Levi's Stadium",
+            "Levi's Stadium in the San Francisco Bay Area at Santa Clara, California."
+          ],
+          "answer_start": [
+            403,
+            355,
+            355
+          ]
+        }
+      },
+      {
+        "id": "56be4db0acb8001400a502ef",
+        "answers": {
+          "text": [
+            "Denver Broncos",
+            "Denver Broncos",
+            "Denver Broncos"
+          ],
+          "answer_start": [
+            177,
+            177,
+            177
+          ]
+        }
+      },
+      {
+        "id": "56be4db0acb8001400a502f0",
+        "answers": {
+          "text": [
+            "gold",
+            "gold",
+            "gold"
+          ],
+          "answer_start": [
+            488,
+            488,
+            521
+          ]
+        }
+      },
+      {
+        "id": "56be8e613aeaaa14008c90d1",
+        "answers": {
+          "text": [
+            "\"golden anniversary\"",
+            "gold-themed",
+            "\"golden anniversary"
+          ],
+          "answer_start": [
+            487,
+            521,
+            487
+          ]
+        }
+      },
+      {
+        "id": "56be8e613aeaaa14008c90d2",
+        "answers": {
+          "text": [
+            "February 7, 2016",
+            "February 7",
+            "February 7, 2016"
+          ],
+          "answer_start": [
+            334,
+            334,
+            334
+          ]
+        }
+      },
+      {
+        "id": "56be8e613aeaaa14008c90d3",
+        "answers": {
+          "text": [
+            "American Football Conference",
+            "American Football Conference",
+            "American Football Conference"
+          ],
+          "answer_start": [
+            133,
+            133,
+            133
+          ]
+        }
+      },
+      {
+        "id": "56bea9923aeaaa14008c91b9",
+        "answers": {
+          "text": [
+            "\"golden anniversary\"",
+            "gold-themed",
+            "gold"
+          ],
+          "answer_start": [
+            487,
+            521,
+            521
+          ]
+        }
+      },
+      {
+        "id": "56bea9923aeaaa14008c91ba",
+        "answers": {
+          "text": [
+            "American Football Conference",
+            "American Football Conference",
+            "American Football Conference"
+          ],
+          "answer_start": [
+            133,
+            133,
+            133
+          ]
+        }
+      }
+    ]
+  }
+}
